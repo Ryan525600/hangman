@@ -36,4 +36,7 @@ HANGMAN_PICS = ['''
    / \  |
       ===''']
 print('dumb')
+input()
+
+
 
