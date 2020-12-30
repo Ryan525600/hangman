@@ -35,5 +35,5 @@ HANGMAN_PICS = ['''
    /|\  |
    / \  |
       ===''']
-
+print('dumb')
 
