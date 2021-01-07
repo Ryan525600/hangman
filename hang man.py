@@ -52,3 +52,4 @@ def displayBoard(missedLetters, correctLetters, secretWord):
         print(letter, end=' ')
     print()
     #this for loop is going to display the missed letters.
+    

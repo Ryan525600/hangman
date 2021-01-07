@@ -22,3 +22,4 @@ print('split은 말 그대로 문장을 단어 따로 따로 스플릿 시켜준
 time.sleep(1)
 sentence = 'what do you think you are doing'
 print(sentence.split())
+
